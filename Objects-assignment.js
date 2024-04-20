@@ -83,26 +83,3 @@ console.log({car});
     car.displayInformation();
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-// const car = {
-//     make: 'Toyota',
-//     model: 'Hilux',
-//     year: 2000,
-//     age:function(){
-//         let years = newDate().getFullYear();
-//         let ageOfCar = years - car.year;
-//         return ageOfCar
-//     }
-// };
-// console.log(car.age);
